@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/kiriofps" target="blank"><img src="https://img.shields.io/twitter/follow/kiriofps?logo=twitter&style=for-the-badge" alt="kiriofps" /></a> </p>
 
-- 🔭 I’m currently working on **nothing**
+- 🔭 I’m currently working on **osu!flex**
 
-- 🌱 I’m currently learning **SQL, Java**
+- 🌱 I’m currently learning **nothing**
 
 - 👯 I’m looking to collaborate on **nothing i guess**
 
