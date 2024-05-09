@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Kirio 19 y/o</h1>
+<h1 align="center">Hi 👋, I'm Kirio 20 y/o</h1>
 <h3 align="center">A shitty ass student developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirio-iwnl&label=Profile%20views&color=0e75b6&style=flat" alt="kirio-iwnl" /> </p>
 
 <p align="left"> <a href="https://twitter.com/kiriofps" target="blank"><img src="https://img.shields.io/twitter/follow/kiriofps?logo=twitter&style=for-the-badge" alt="kiriofps" /></a> </p>
 
-- 🔭 I’m currently working on **osu!flex**
+- 🔭 I’m currently working on **TurnOFF (private Repo)**
 
 - 🌱 I’m currently learning **nothing**
 
@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **nothing**
 
-- 💬 Ask me about **uhhh**
+- 💬 Ask me about **Java related stuff**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
