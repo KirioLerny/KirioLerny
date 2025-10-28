@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/kiriofps" target="blank"><img src="https://img.shields.io/twitter/follow/kiriofps?logo=twitter&style=for-the-badge" alt="kiriofps" /></a> </p>
 
-- 🔭 I’m currently working on **WeatherApp**
+- 🔭 I’m currently working on **Kartenkrieger Website**
 
 - 🌱 I’m currently learning **Angular**
 
